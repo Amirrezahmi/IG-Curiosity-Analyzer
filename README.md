@@ -9,3 +9,25 @@ Using cutting-edge machine learning techniques such as NLP, voice cloning, deep 
 So, whether you're seeking advice on a personal matter, looking for guidance in your career, or simply curious about the world around you, this AI-powered version of yourself is always at your disposal.
 
 With this project, the possibilities are endless. You can have conversations with your virtual self.
+
+
+# Features 
+- Text generation 
+- Text summarization 
+- Voice cloning 
+- Deep fake 
+
+# Prerequisites
+You only need to run the cells in "Installation and import" section!
+
+For the text generation part you can use OpenAI API or you can use my model used in this Jupiter notebook:
+
+https://drive.google.com/drive/folders/11W-KNm_lFtqAu0Kw7ANw-PcefkpD0aCP
+# Usage 
+
+   1. Open `Selt-Talker.ipynb`.
+   2. Run all the cells in installation a import!
+   3. Restart the Runtime.
+   4. In step 1 (Text generation), change the prompt based on your need.
+   5. In step 4 (Deep fake), upload a picture of your face and choose the uploaded picture.
+
