@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/11W-KNm_lFtqAu0Kw7ANw-PcefkpD0aCP
 # Usage 
 
    1. Open `Selt-Talker.ipynb`.
-   2. Run all the cells in installation a import!
+   2. Run all the cells in installation and import section!
    3. Restart the Runtime.
    4. In step 1 (Text generation), change the prompt based on your need.
    5. In step 4 (Deep fake), upload a picture of your face and choose the uploaded picture.
