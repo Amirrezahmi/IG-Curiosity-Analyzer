@@ -29,7 +29,8 @@ https://drive.google.com/drive/folders/11W-KNm_lFtqAu0Kw7ANw-PcefkpD0aCP
    2. Run all the cells in installation and import section!
    3. Restart the Runtime.
    4. In step 1 (Text generation), change the prompt based on your need.
-   5. In step 4 (Deep fake), upload a picture of your face and choose the uploaded picture.
+   5. For step 3 (voice cloning), you need to upload your voice dataset.
+   6. In step 4 (Deep fake), upload a picture of your face and choose the uploaded picture.
 
 # Contributing
 
