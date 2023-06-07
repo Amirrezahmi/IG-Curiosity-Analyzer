@@ -31,3 +31,22 @@ https://drive.google.com/drive/folders/11W-KNm_lFtqAu0Kw7ANw-PcefkpD0aCP
    4. In step 1 (Text generation), change the prompt based on your need.
    5. In step 4 (Deep fake), upload a picture of your face and choose the uploaded picture.
 
+# Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1.  Fork the repository.
+
+2. Create a new branch: git checkout -b my-new-branch.
+
+3. Make your changes and commit them: git commit -m 'Add some feature'.
+
+4. Push to the branch: git push origin my-new-branch.
+
+5. Submit a pull request.
+
+    
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
