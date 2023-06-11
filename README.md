@@ -16,7 +16,7 @@ With this project, the possibilities are endless. You can have conversations wit
 - Text summarization 
 - keywords detection 
 - Phrase detection 
-- Text-to-Image
+- AI Text-to-Image DALLE-2 
 - Voice cloning 
 - Deep fake 
 
