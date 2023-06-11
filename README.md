@@ -15,6 +15,7 @@ With this project, the possibilities are endless. You can have conversations wit
 - Text generation 
 - Text summarization 
 - keywords detection 
+- Phrase detection 
 - Text-to-Image
 - Voice cloning 
 - Deep fake 
