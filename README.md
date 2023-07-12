@@ -8,7 +8,7 @@ This repository contains a Python script that uses the `instagrapi` library to a
 To use this notebook:
 
 
-  1. Open the notebook in Google Colab.
+  1. Open the `main.ipynb` notebook in Google Colab.
   2. Run each code cell sequentially.
   3. Modify the provided username and password variables with your Instagram credentials.
   4. Make sure to install the required libraries by running the following code cell:
