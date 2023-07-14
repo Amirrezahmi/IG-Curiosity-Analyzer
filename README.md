@@ -34,7 +34,7 @@ The script performs the following steps:
 
 ## Important Note
 
-To accurately measure curiosity, it is recommended that you post a series of 11 identical stories. This repetition ensures consistent calculation of curiosity based on the viewership across all stories.
+To accurately measure curiosity, it is recommended that you post a series of 11 identical stories (this is optional for example i posted a series of 11 identical black stories). This repetition ensures consistent calculation of curiosity based on the viewership across all stories.
 
 
 ## Contributing
