@@ -1,6 +1,6 @@
 # Instagram Curiosity Analyzer
 
-This repository contains a Python script that uses the `instagrapi` library to analyze the curiosity level of your Instagram followers based on their interaction with your stories. By calculating the percentage of followers who consistently view your stories, you can gauge their curiosity and engagement. Additionally, the script provides information about followers who are 100% curious and displays their profile information.
+This repository contains a Python script that uses the `instagrapi` library (click [here](https://github.com/adw0rd/instagrapi) for more information). to analyze the curiosity level of your Instagram followers based on their interaction with your stories. By calculating the percentage of followers who consistently view your stories, you can gauge their curiosity and engagement. Additionally, the script provides information about followers who are 100% curious and displays their profile information.
 
 ## Usage
 
